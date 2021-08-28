@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/outside-digital-test/static/css/main.4c8eada6.chunk.css",
+    "main.js": "/outside-digital-test/static/js/main.92a46f3e.chunk.js",
+    "main.js.map": "/outside-digital-test/static/js/main.92a46f3e.chunk.js.map",
+    "runtime-main.js": "/outside-digital-test/static/js/runtime-main.d507a41f.js",
+    "runtime-main.js.map": "/outside-digital-test/static/js/runtime-main.d507a41f.js.map",
+    "static/js/2.60d08a37.chunk.js": "/outside-digital-test/static/js/2.60d08a37.chunk.js",
+    "static/js/2.60d08a37.chunk.js.map": "/outside-digital-test/static/js/2.60d08a37.chunk.js.map",
+    "index.html": "/outside-digital-test/index.html",
+    "static/css/main.4c8eada6.chunk.css.map": "/outside-digital-test/static/css/main.4c8eada6.chunk.css.map",
+    "static/js/2.60d08a37.chunk.js.LICENSE.txt": "/outside-digital-test/static/js/2.60d08a37.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/outside-digital-test/static/media/LabGrotesque-Regular.a25b6e0c.eot",
+    "static/media/app.css": "/outside-digital-test/static/media/checkbox.62a8ceae.svg",
+    "static/media/close.beb7d290.svg": "/outside-digital-test/static/media/close.beb7d290.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d507a41f.js",
+    "static/js/2.60d08a37.chunk.js",
+    "static/css/main.4c8eada6.chunk.css",
+    "static/js/main.92a46f3e.chunk.js"
+  ]
+}
