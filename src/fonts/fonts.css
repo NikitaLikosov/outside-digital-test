@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'LabGrotesque';
+  src: local('LabGrotesque'),
+    url('./LabGrotesque-Regular.ttf') format('truetype'),
+    url('./LabGrotesque-Regular.eot?#iefix') format('embedded-opentype'),
+    url('./LabGrotesque-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Medium */
+
+@font-face {
+  font-family: 'LabGrotesque';
+  src: local('LabGrotesque'),
+    url('./LabGrotesque-Medium.ttf') format('truetype'),
+    url('./LabGrotesque-Medium.eot?#iefix') format('embedded-opentype'),
+    url('./LabGrotesque-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
